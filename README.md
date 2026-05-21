@@ -7,3 +7,7 @@
 
 
 QWEN_TTS_URL  现改用 免费的 edgetts 把 , 等功能调通了 , 我再 租用一个 云服务器 部署 qwentts 和 index tts . 后面只需 改动 QWEN_TTS_URL  INDEX_TTS_URL , 就 可以完成 切换
+
+
+
+本地 预设 语音回复列表 , 每个 关键词 , 绑定 一个 语音回复 , 触发了 , 自动回复 ,  冷场列表 .  回复完 自动 播放冷场列表 里的语音 .
